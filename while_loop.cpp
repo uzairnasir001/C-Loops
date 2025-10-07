@@ -59,10 +59,26 @@ int main()
     // cout<<"The sum of digits is "<<sum<<endl;
 
     // Program 6.7
+    // int num, i = 1;
+    // long int factorial=1;
+    // cout<<"Enter a integer:"<<endl;
+    // cin>>num;
+    // if (num<=0)
+    // {
+    //     cout<<"Factorial of this number does not exists."<<endl;
+    // }
+    // else
+    // {
+    //  while (i<=num)
+    //  {
+    //     factorial = factorial * i;
+    //     i++;
+    //  }
+    //  cout<<"The factorial of "<<num<<" is "<<factorial<<endl;
+    // }
+
+    // Program 6.8
     
-
-
-
 
 
 
